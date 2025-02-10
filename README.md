@@ -9,10 +9,6 @@
 ## 🚀 Projects
 Here are some projects I've worked on:
 
-- **[Titanic Survival Prediction](#)**: Built a model to predict passenger survival using machine learning.  
-- **[PCOS Review](#)**: Analyzed and reviewed research data on PCOS.  
-- **[BMI Calculator](#)**: Designed a Python-based tool to calculate Body Mass Index with visualization.  
-
 ---
 
 ## 🛠️ Skills
