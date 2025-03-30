@@ -9,7 +9,9 @@
 ## 🚀 Projects
 Here are some projects I've worked on:
 1.Netflix EDA
+
 2.Netflix PowerBI Dashboard
+
 3.Diwali Sales Analysis
 
 ---
